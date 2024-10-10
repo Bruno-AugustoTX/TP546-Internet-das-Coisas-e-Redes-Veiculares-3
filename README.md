@@ -4,7 +4,7 @@ Entrega do terceiro trabalho da disciplina TP546
 
 Trabalho sobre Brechas de Segurança em Aplicações IoT.
 
-Links para Documentos e Artigos
+Links para Documentos e Artigos:
 
 
 [Trabalho 03](Trabalho3)
